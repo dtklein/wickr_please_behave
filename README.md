@@ -15,5 +15,6 @@ I could not have done this on my own. I have blatantly borrowed ideas, informati
 * https://medium.com/@SaravSun/running-gui-applications-inside-docker-containers-83d65c0db110
 * https://docs.docker.com/userguide/
 * https://packages.ubuntu.com/source/xenial/allpackages
-
+* https://medium.com/@mccode/processes-in-containers-should-not-run-as-root-2feae3f0df3b
+* https://vsupalov.com/docker-build-pass-environment-variables/
 
